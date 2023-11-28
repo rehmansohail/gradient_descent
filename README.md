@@ -26,7 +26,7 @@ The objective of this project is to implement and optimize a linear regression m
 
 ### Code Structure
 
-- **`linear_regression.py`:**
+- **`generic_gradient.py`:**
     - `step(data, learning_rate, theta)`: Performs one step of gradient descent.
     - `cost(data, theta)`: Calculates the mean squared error (cost) given the data and parameter values.
     - `gradient_descent(data, learning_rate, iterations)`: Performs gradient descent for a specified number of iterations.
@@ -39,4 +39,4 @@ The objective of this project is to implement and optimize a linear regression m
 - **Cost vs. Iteration Plot:**
     - A plot is generated showing how the cost decreases with each iteration during the gradient descent process. This provides insight into the optimization progress.
 
-![Cost vs. Iteration Plot](graphs/cost_vs_iteration.png)
+[Cost vs. Iteration Plot](graphs/cost_vs_iteration.png)
