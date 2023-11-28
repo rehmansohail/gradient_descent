@@ -38,5 +38,4 @@ The objective of this project is to implement and optimize a linear regression m
 
 - **Cost vs. Iteration Plot:**
     - A plot is generated showing how the cost decreases with each iteration during the gradient descent process. This provides insight into the optimization progress.
-
-[Cost vs. Iteration Plot](https://raw.githubusercontent.com/rehmansohail/gradient_descent/graphs/cost_vs_iteration.png)
+![cost_vs_iteration](https://github.com/rehmansohail/gradient_descent/assets/83837284/9849b31a-e494-4f13-8102-04ea47f71d6f)
